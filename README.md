@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iiGJs
+- 👀 I’m interested in Computer Network Technology，but also to software programming
+- 🌱 I’m currently learning Computer Network Technology.
+- 📫 How to reach me -email: luna0202gaojing@outlook.com
