@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @iiGJs
-- 👀 I’m interested in software programming
-- 🌱 I’m currently learning software programming
-- 📫 How to reach me -email: luna0202gaojing@outlook.com
+@iiGJs
